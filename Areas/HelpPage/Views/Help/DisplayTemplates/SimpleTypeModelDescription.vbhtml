@@ -1,0 +1,3 @@
+@Imports MasivRoulette.Areas.HelpPage.ModelDescriptions
+@ModelType SimpleTypeModelDescription
+@Model.Documentation
